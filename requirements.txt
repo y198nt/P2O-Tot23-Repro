@@ -1,0 +1,5 @@
+--------------Install-----------------
+MPC version 4.1.0 or higher 
+GMP version 5.0.0 or higher 
+MPFR version 4.1.0 or higher
+--------------------------------------
